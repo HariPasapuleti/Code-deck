@@ -10,16 +10,19 @@ Welcome to **Code Deck**, a feature-rich online coding IDE built using React and
 - **Modern UI**: Built using styled-components for a clean and modern look.
 - **Error Handling**: Includes a custom `Error404` page for invalid routes.
 
+---
 ## Tech Stack
 
 - **Frontend**: React, React Router
 - **Styling**: Styled-components
 - **Bundler**: Vite for fast builds and development
 
+---
 ## Demo
 
 Check out the live demo of the project [here](https://code-deck2.vercel.app).
 
+---
 ## Getting Started
 
 Follow these steps to set up the project locally:
@@ -47,11 +50,14 @@ Follow these steps to set up the project locally:
    ```bash
    npm run dev
    ```
+<!--
 5. Open your browser and navigate to:
    ```arduino
    http://localhost:3000
    ```
+-->
 
+---
 ## Usage
 
 1. **Home Page**: Browse to the home page and select a playground.
